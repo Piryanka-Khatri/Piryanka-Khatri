@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piryanka Khatri</h1>
 <h3 align="center">A passionate Computer System Engineer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m **Machine Learning Developer**
 
 - 📫 How to reach me **khatripiryanka@gmail.com**
 
