@@ -49,14 +49,6 @@ Currently improving my skills in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piryanka-khatri&show_icons=true&theme=default" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
